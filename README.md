@@ -3,7 +3,7 @@
 
 Diversified Portfolio Optimisation: Leveraging Random Forest Analysis for Enhanced Management of ETFs and Bitcoin
 
-Liu Yue, Nguyen Thi Quynh Mai and Ong Shen Kwang
+By Liu Yue, Nguyen Thi Quynh Mai and Ong Shen Kwang
 
 The authors employ LSTM and RF algorithms to predict future prices of 
 - Equity ETF: S&P500 (SPY)
