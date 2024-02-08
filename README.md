@@ -2,6 +2,7 @@
 23/12 WQU Capstone - Group 4868
 
 Diversified Portfolio Optimisation: Leveraging Random Forest Analysis for Enhanced Management of ETFs and Bitcoin
+
 Liu Yue, Nguyen Thi Quynh Mai and Ong Shen Kwang
 
 The authors employ LSTM and RF algorithms to predict future prices of 
